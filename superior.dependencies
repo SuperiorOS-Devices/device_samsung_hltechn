@@ -1,0 +1,8 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "SuperiorOS-Devices/device_samsung_hlte-common",
+    "target_path": "device/samsung/hlte-common",
+    "branch":      "ten"
+  }
+]
